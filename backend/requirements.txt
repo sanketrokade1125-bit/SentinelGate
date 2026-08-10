@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy
+pandas
+numpy
+scikit-learn
+python-dotenv
